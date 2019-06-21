@@ -1,0 +1,8 @@
+{
+		"prefix": "$",
+		"token": "ENTER YOUR TOKEN HERE",
+		"youtubeAPIKey": "ENTER YOUR KEY HERE",
+		"modRole": "Host",
+		"superModRole": "organizer",
+		"owner": "ENTER YOUR DISCORD USER ID"
+}
