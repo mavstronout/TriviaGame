@@ -26,7 +26,7 @@
 		"erlpack": "0.1.0",
 		"fs": "0.0.1-security",
 		"libsodium-wrappers": "0.7.4",
-		"moment": "^2.24.0",
+		"moment": "^2.29.2",
 		"moment-duration-format": "^2.2.2",
 		"node-fetch": "^2.3.0",
 		"node-opus": "^0.2.9",
